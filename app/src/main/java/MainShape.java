@@ -10,7 +10,7 @@ public class MainShape {
         System.out.println("  Perimeter: " + circle.getPerimeter());
         System.out.println();
 
-        // Tests Rectangle File
+        // Tests Rectangl File
         Rectangle rectangle = new Rectangle(2.0, 3.0);
         System.out.println("Rectangle:");
         System.out.println("  Area: " + rectangle.getArea());
